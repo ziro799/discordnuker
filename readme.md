@@ -1,7 +1,7 @@
 # Discord Nuker
 > A simple tool to destroy servers with a bot token
 
-<font size="1">This is a beta, please let me know if you have any issues [here](https://github.com/RappyTV/discordnuker/issues)!</font>
+<sub>This is a beta, please let me know if you have any issues [here](https://github.com/RappyTV/discordnuker/issues)!</sub>
 
 ## Features
 - [x] `/banall` - [Ban all bannable members](https://github.com/RappyTV/discordnuker/blob/master/src/commands/banall.js)
@@ -34,7 +34,7 @@ Or download it [here](https://github.com/RappyTV/discordnuker/archive/refs/heads
 Then just install the needed dependencies with `npm i`.
 
 ## 2️⃣ Configuration
-If you have downloaded and extracted all the files you should look for a file named `config.json`.<br>
+If you have downloaded and extracted all the files you should look for a file named [config.json](https://github.com/RappyTV/discordnuker/blob/master/config.json).<br>
 It should look like this:
 ```json
 {
