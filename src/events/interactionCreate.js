@@ -1,4 +1,4 @@
-const { Interaction, EmbedBuilder, ChannelType, ContextMenuCommandInteraction, MessageContextMenuCommandInteraction, UserContextMenuCommandInteraction } = require("discord.js");
+const { Interaction, EmbedBuilder } = require("discord.js");
 
 /**
  * 

@@ -1,4 +1,4 @@
-const { CommandInteraction, CommandInteractionOptionResolver, GuildMember, User, EmbedBuilder, PermissionsBitField, ApplicationCommandOptionType } = require("discord.js");
+const { CommandInteraction, CommandInteractionOptionResolver, GuildMember, User, PermissionsBitField, ApplicationCommandOptionType } = require("discord.js");
 
 module.exports = {
     name: `editprofile`,

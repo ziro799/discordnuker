@@ -1,4 +1,4 @@
-const { Client, Partials, Collection, IntentsBitField } = require("discord.js");
+const { Client, Collection } = require("discord.js");
 const { readdirSync } = require(`fs`);
 
 // Global variable

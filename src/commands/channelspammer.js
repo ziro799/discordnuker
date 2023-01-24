@@ -1,4 +1,4 @@
-const { CommandInteraction, CommandInteractionOptionResolver, GuildMember, User, EmbedBuilder, PermissionsBitField, ApplicationCommandOptionType, ChannelType } = require("discord.js");
+const { CommandInteraction, CommandInteractionOptionResolver, GuildMember, User, PermissionsBitField, ApplicationCommandOptionType, ChannelType } = require("discord.js");
 
 module.exports = {
     name: `channelspammer`,
