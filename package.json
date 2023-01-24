@@ -1,0 +1,23 @@
+{
+  "name": "servernuker",
+  "version": "1.0.0",
+  "description": "A simple tool to destroy servers with a bot token",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RappyTV/discordnuker.git"
+  },
+  "author": "RappyTV#6969",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RappyTV/discordnuker/issues"
+  },
+  "homepage": "https://github.com/RappyTV/discordnuker#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
