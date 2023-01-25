@@ -50,7 +50,7 @@ Just run `node .` or `nodemon` if you have [nodemon](https://www.npmjs.com/packa
 
 ## 4️⃣ Have fun!
 🔗 [Features](https://github.com/RappyTV/discordnuker/blob/master/readme.md#features)<br>
-<strong>Errors, Warnings & Messages will be logged to the console!</strong>
+<strong>This is for educational purposes only!</strong>
 
 ---
 
